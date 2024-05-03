@@ -9,7 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Mi Primera Chamba Angular';
+  title = 'Mi Primera Chamba Angular Caleb Coronado';
   generateSpaceLayer(size: string, selector: string, totalStars: number, duration: string) {
     const COLOR: string[] = ["#fff", "#fff2", "#fff4", "#fffc"];
     const layer: string[] = [];
